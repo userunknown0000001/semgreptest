@@ -1,2 +1,2 @@
 # semgreptest
-test
+Test Semgrep
